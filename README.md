@@ -122,5 +122,5 @@ SHOW TABLES;
 
 ## Print do resultado esperado da validação
 <div style="text-align: center"><br>
-    <img align="center" alt="html-screen" height="400px" width="850px" src="https://github.com/CarlosDaniel3/kubernetes-mysql-deployment/blob/main/assets/screen-result.png">
+    <img align="center" alt="result" height="400px" width="850px" src="https://github.com/CarlosDaniel3/kubernetes-mysql-deployment/blob/main/assets/result.png">
 </div>
