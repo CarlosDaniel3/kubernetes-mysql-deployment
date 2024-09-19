@@ -120,7 +120,7 @@ CREATE TABLE test_table (id INT PRIMARY KEY, name VARCHAR(50));
 SHOW TABLES;
 ```
 
-## Resultado esperado da validação
+## Resultado esperado dos comandos de validação
 <div style="text-align: center"><br>
     <img align="center" alt="result" height="400px" width="700px" src="https://github.com/CarlosDaniel3/kubernetes-mysql-deployment/blob/main/assets/result.png">
 </div>
